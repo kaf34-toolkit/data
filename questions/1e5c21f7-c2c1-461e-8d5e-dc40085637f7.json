@@ -1,0 +1,28 @@
+{
+    "idx": "1e5c21f7-c2c1-461e-8d5e-dc40085637f7",
+    "text": "Какой плоскостью выполнено сечение, изображенное на рисунке ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "А-А",
+            "is_correct": true
+        },
+        {
+            "text": "Д-Д",
+            "is_correct": false
+        },
+        {
+            "text": "Б-Б",
+            "is_correct": false
+        },
+        {
+            "text": "В-В",
+            "is_correct": false
+        },
+        {
+            "text": "Г-Г",
+            "is_correct": false
+        }
+    ]
+}

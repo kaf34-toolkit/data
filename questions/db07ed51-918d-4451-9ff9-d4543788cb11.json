@@ -1,0 +1,28 @@
+{
+    "idx": "db07ed51-918d-4451-9ff9-d4543788cb11",
+    "text": "При помощи какой вспомогательной секущей плоскости построены характерные точки А и В?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "R",
+            "is_correct": true
+        },
+        {
+            "text": "T",
+            "is_correct": false
+        },
+        {
+            "text": "P",
+            "is_correct": false
+        },
+        {
+            "text": "Q",
+            "is_correct": false
+        },
+        {
+            "text": "S",
+            "is_correct": false
+        }
+    ]
+}

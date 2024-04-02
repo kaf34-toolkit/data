@@ -1,0 +1,28 @@
+{
+    "idx": "d700417f-ecc4-476b-b752-b6e434a7c10a",
+    "text": "Какая из точек не принадлежит поверхности детали?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "2",
+            "is_correct": false
+        },
+        {
+            "text": "5",
+            "is_correct": true
+        },
+        {
+            "text": "1",
+            "is_correct": false
+        },
+        {
+            "text": "3",
+            "is_correct": false
+        },
+        {
+            "text": "4",
+            "is_correct": false
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "idx": "fcd692e1-cd9c-46b3-a22a-5e0f704e9b6d",
+    "text": "Какой тип соединения применен на чертеже ?\nВведите название",
+    "atype": 1,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Сшивка",
+            "is_correct": true
+        }
+    ]
+}

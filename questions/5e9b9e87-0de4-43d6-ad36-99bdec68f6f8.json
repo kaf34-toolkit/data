@@ -1,0 +1,28 @@
+{
+    "idx": "5e9b9e87-0de4-43d6-ad36-99bdec68f6f8",
+    "text": "Сколько характерных точек имеет линия пересечения данных цилиндра и сферы?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "3",
+            "is_correct": false
+        },
+        {
+            "text": "5",
+            "is_correct": false
+        },
+        {
+            "text": "4",
+            "is_correct": true
+        },
+        {
+            "text": "1",
+            "is_correct": false
+        },
+        {
+            "text": "2",
+            "is_correct": false
+        }
+    ]
+}

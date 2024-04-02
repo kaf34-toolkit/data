@@ -1,0 +1,28 @@
+{
+    "idx": "a1a566a9-3f88-4107-bc55-541042a27e60",
+    "text": "Какая линия делит профильную проекцию сферы на видимую и невидимую части?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Главный меридиан",
+            "is_correct": false
+        },
+        {
+            "text": "Профильный меридиан",
+            "is_correct": true
+        },
+        {
+            "text": "Меридиан",
+            "is_correct": false
+        },
+        {
+            "text": "Параллель",
+            "is_correct": false
+        },
+        {
+            "text": "Экватор",
+            "is_correct": false
+        }
+    ]
+}

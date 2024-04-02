@@ -1,0 +1,28 @@
+{
+    "idx": "aa430073-e40e-4ba6-a34a-9bbb5ab645db",
+    "text": "На каком чертеже изображен предмет, заданный в аксонометрии (вырез в аксонометрии сделан условно для выявления внутренних форм) ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "3",
+            "is_correct": false
+        },
+        {
+            "text": "2",
+            "is_correct": false
+        },
+        {
+            "text": "5",
+            "is_correct": true
+        },
+        {
+            "text": "1",
+            "is_correct": false
+        },
+        {
+            "text": "4",
+            "is_correct": false
+        }
+    ]
+}

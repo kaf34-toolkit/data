@@ -1,0 +1,28 @@
+{
+    "idx": "f5aa67b1-cc48-4398-a7dc-60ce60a3c86a",
+    "text": "Какой поверхности принадлежит точка В?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Плоскости",
+            "is_correct": false
+        },
+        {
+            "text": "Поверхности сферы",
+            "is_correct": false
+        },
+        {
+            "text": "Поверхности тора",
+            "is_correct": true
+        },
+        {
+            "text": "Поверхности конуса",
+            "is_correct": false
+        },
+        {
+            "text": "Поверхности цилиндра",
+            "is_correct": false
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "idx": "1d695fd4-ef8f-4d34-8dfb-18f8867a2705",
+    "text": "Какое из ребер пирамиды изобразжено на фронтальной проекции в натуральную величину ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "AD",
+            "is_correct": false
+        },
+        {
+            "text": "AC",
+            "is_correct": false
+        },
+        {
+            "text": "CD",
+            "is_correct": false
+        },
+        {
+            "text": "AB",
+            "is_correct": true
+        },
+        {
+            "text": "BD",
+            "is_correct": false
+        }
+    ]
+}

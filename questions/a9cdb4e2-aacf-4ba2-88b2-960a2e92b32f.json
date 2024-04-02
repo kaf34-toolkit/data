@@ -1,0 +1,28 @@
+{
+    "idx": "a9cdb4e2-aacf-4ba2-88b2-960a2e92b32f",
+    "text": "Какая ошибка допущена в изображении сборочной единицы ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Обозначен тип сварки на одном шве",
+            "is_correct": false
+        },
+        {
+            "text": "Ошибки нет",
+            "is_correct": true
+        },
+        {
+            "text": "Позиция 7 начинается стрелкой",
+            "is_correct": false
+        },
+        {
+            "text": "Не заштрихована деталь 6",
+            "is_correct": false
+        },
+        {
+            "text": "Не обозначено сечение",
+            "is_correct": false
+        }
+    ]
+}

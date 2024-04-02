@@ -1,0 +1,28 @@
+{
+    "idx": "04fe12b8-8d1a-42a1-937a-c1f2f41f0ab3",
+    "text": "Какой из основных видов не изображен на чертеже?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Вид сверху",
+            "is_correct": false
+        },
+        {
+            "text": "Вид снизу",
+            "is_correct": true
+        },
+        {
+            "text": "Вид сзади",
+            "is_correct": false
+        },
+        {
+            "text": "Главный вид",
+            "is_correct": false
+        },
+        {
+            "text": "Вид слева",
+            "is_correct": false
+        }
+    ]
+}

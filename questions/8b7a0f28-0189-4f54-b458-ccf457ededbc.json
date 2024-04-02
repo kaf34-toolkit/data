@@ -1,0 +1,28 @@
+{
+    "idx": "8b7a0f28-0189-4f54-b458-ccf457ededbc",
+    "text": "Какая грань пирамиды является фронтально-проецирующей плоскостью? ",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "ASB",
+            "is_correct": true
+        },
+        {
+            "text": "BSC",
+            "is_correct": false
+        },
+        {
+            "text": "ESD",
+            "is_correct": false
+        },
+        {
+            "text": "ASE",
+            "is_correct": false
+        },
+        {
+            "text": "CSD",
+            "is_correct": false
+        }
+    ]
+}

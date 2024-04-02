@@ -1,0 +1,28 @@
+{
+    "idx": "359d1a22-7a25-4ae8-8d7e-d4f41ac580a6",
+    "text": "На каком рисунке неправильно проставлен размер окружности ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "1",
+            "is_correct": false
+        },
+        {
+            "text": "4",
+            "is_correct": false
+        },
+        {
+            "text": "3",
+            "is_correct": true
+        },
+        {
+            "text": "5",
+            "is_correct": false
+        },
+        {
+            "text": "2",
+            "is_correct": false
+        }
+    ]
+}

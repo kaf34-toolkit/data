@@ -1,0 +1,28 @@
+{
+    "idx": "13283858-d1e8-446a-8577-64c85531ccca",
+    "text": "Какая из граней пирамиды является проецирующей плоскостью  ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "BEC",
+            "is_correct": false
+        },
+        {
+            "text": "ATD",
+            "is_correct": false
+        },
+        {
+            "text": "CED",
+            "is_correct": false
+        },
+        {
+            "text": "ABE",
+            "is_correct": true
+        },
+        {
+            "text": "ABCD",
+            "is_correct": false
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "idx": "d0b8d48b-a649-43a7-a1a9-3e4d058c30e1",
+    "text": "Какой плоскости принадлежит точка К?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Фронтально-проецирующей",
+            "is_correct": false
+        },
+        {
+            "text": "Профильной",
+            "is_correct": false
+        },
+        {
+            "text": "Горизонтальной",
+            "is_correct": false
+        },
+        {
+            "text": "Фронтальной",
+            "is_correct": false
+        },
+        {
+            "text": "Общего положения",
+            "is_correct": true
+        }
+    ]
+}

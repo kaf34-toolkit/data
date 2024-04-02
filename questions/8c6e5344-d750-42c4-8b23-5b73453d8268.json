@@ -1,0 +1,28 @@
+{
+    "idx": "8c6e5344-d750-42c4-8b23-5b73453d8268",
+    "text": "Какое сечение соответствует форме предмета, направлению взгляда и правилам обозначения ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "д",
+            "is_correct": true
+        },
+        {
+            "text": "а",
+            "is_correct": false
+        },
+        {
+            "text": "в",
+            "is_correct": false
+        },
+        {
+            "text": "г",
+            "is_correct": false
+        },
+        {
+            "text": "б",
+            "is_correct": false
+        }
+    ]
+}

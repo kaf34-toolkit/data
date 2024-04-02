@@ -1,0 +1,28 @@
+{
+    "idx": "5509e8d9-afc3-4483-9398-16b2645187f3",
+    "text": "Как называют поверхность, ось или точку, относительно которых задают расположения других поверхностей изделия ? ",
+    "atype": 0,
+    "contains_img": false,
+    "answers": [
+        {
+            "text": "Сопряжение",
+            "is_correct": false
+        },
+        {
+            "text": "Смежник",
+            "is_correct": false
+        },
+        {
+            "text": "База",
+            "is_correct": true
+        },
+        {
+            "text": "Связь",
+            "is_correct": false
+        },
+        {
+            "text": "Посадка",
+            "is_correct": false
+        }
+    ]
+}

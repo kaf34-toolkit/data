@@ -1,0 +1,28 @@
+{
+    "idx": "9676d73e-2b8d-4696-9bbd-055ab349ea88",
+    "text": "Какое изображение соответствует стандартному изображению конической резьбы в отверстии ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "1",
+            "is_correct": false
+        },
+        {
+            "text": "3",
+            "is_correct": false
+        },
+        {
+            "text": "2",
+            "is_correct": false
+        },
+        {
+            "text": "4",
+            "is_correct": true
+        },
+        {
+            "text": "5",
+            "is_correct": false
+        }
+    ]
+}

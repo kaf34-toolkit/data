@@ -1,0 +1,28 @@
+{
+    "idx": "682b973c-2d75-4bd7-a414-b053a28d8a14",
+    "text": "Как называется линия изображенная на чертеже ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Прямая общего положения",
+            "is_correct": false
+        },
+        {
+            "text": "Профильная прямая",
+            "is_correct": false
+        },
+        {
+            "text": "Фронтально-проецирующая прямая",
+            "is_correct": true
+        },
+        {
+            "text": "Горизонтальная прямая",
+            "is_correct": false
+        },
+        {
+            "text": "Фронтальная прямая",
+            "is_correct": false
+        }
+    ]
+}

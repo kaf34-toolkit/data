@@ -1,0 +1,28 @@
+{
+    "idx": "13791760-56f7-449a-bf01-544dfb9fd870",
+    "text": "Какая из точек лежит на экваторе сферы?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "3",
+            "is_correct": false
+        },
+        {
+            "text": "5",
+            "is_correct": false
+        },
+        {
+            "text": "4",
+            "is_correct": false
+        },
+        {
+            "text": "1",
+            "is_correct": false
+        },
+        {
+            "text": "2",
+            "is_correct": true
+        }
+    ]
+}

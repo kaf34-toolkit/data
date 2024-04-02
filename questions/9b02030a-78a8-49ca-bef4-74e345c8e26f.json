@@ -1,0 +1,28 @@
+{
+    "idx": "9b02030a-78a8-49ca-bef4-74e345c8e26f",
+    "text": "Сколько характерных точек имеет линия пересечения данных поверхностей?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "5",
+            "is_correct": false
+        },
+        {
+            "text": "4",
+            "is_correct": true
+        },
+        {
+            "text": "1",
+            "is_correct": false
+        },
+        {
+            "text": "2",
+            "is_correct": false
+        },
+        {
+            "text": "3",
+            "is_correct": false
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "idx": "eb6127c7-57ea-4ca9-90fe-65e22d0afe52",
+    "text": "Чему равны размеры сторон формата А3?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "841х1189",
+            "is_correct": false
+        },
+        {
+            "text": "420х594",
+            "is_correct": false
+        },
+        {
+            "text": "297х420",
+            "is_correct": true
+        },
+        {
+            "text": "594х841",
+            "is_correct": false
+        },
+        {
+            "text": "210х297",
+            "is_correct": false
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "idx": "d28a071c-d9bc-4768-b8a8-dd4e1fb24ad8",
+    "text": "Какой размер шрифта следует применять для номеров позиций если для размеров применен шрифт 3.5 мм ?",
+    "atype": 0,
+    "contains_img": false,
+    "answers": [
+        {
+            "text": "2.5-3.5",
+            "is_correct": false
+        },
+        {
+            "text": "10-14",
+            "is_correct": false
+        },
+        {
+            "text": "3-5",
+            "is_correct": false
+        },
+        {
+            "text": "5-7",
+            "is_correct": true
+        },
+        {
+            "text": "7-10",
+            "is_correct": false
+        }
+    ]
+}

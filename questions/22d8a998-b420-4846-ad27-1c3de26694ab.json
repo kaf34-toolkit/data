@@ -1,0 +1,28 @@
+{
+    "idx": "22d8a998-b420-4846-ad27-1c3de26694ab",
+    "text": "На каком изображении местный разрез выполнен в соответствии с ГОСТ ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "5",
+            "is_correct": true
+        },
+        {
+            "text": "4",
+            "is_correct": false
+        },
+        {
+            "text": "1",
+            "is_correct": false
+        },
+        {
+            "text": "2",
+            "is_correct": false
+        },
+        {
+            "text": "3",
+            "is_correct": false
+        }
+    ]
+}

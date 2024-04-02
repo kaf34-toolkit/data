@@ -1,0 +1,24 @@
+{
+    "idx": "cc8ef001-9aea-43a1-a1f6-0b6ee8555833",
+    "text": "На каком чертеже точка не лежит на плоскости ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "3",
+            "is_correct": false
+        },
+        {
+            "text": "4",
+            "is_correct": true
+        },
+        {
+            "text": "2",
+            "is_correct": false
+        },
+        {
+            "text": "1",
+            "is_correct": false
+        }
+    ]
+}

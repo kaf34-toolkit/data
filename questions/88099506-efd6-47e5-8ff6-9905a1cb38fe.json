@@ -1,0 +1,28 @@
+{
+    "idx": "88099506-efd6-47e5-8ff6-9905a1cb38fe",
+    "text": "Какой разрез необходимо применить на чертеже для данной детали ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Ступенчатый.",
+            "is_correct": false
+        },
+        {
+            "text": "Наклонный.",
+            "is_correct": false
+        },
+        {
+            "text": "Простой фронтальный.",
+            "is_correct": false
+        },
+        {
+            "text": "Ломаный.",
+            "is_correct": true
+        },
+        {
+            "text": "Простой фронтальный с условностями по ГОСТ.",
+            "is_correct": false
+        }
+    ]
+}

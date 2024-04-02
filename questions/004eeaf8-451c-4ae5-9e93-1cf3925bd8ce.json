@@ -1,0 +1,28 @@
+{
+    "idx": "004eeaf8-451c-4ae5-9e93-1cf3925bd8ce",
+    "text": "Какие линии могут получиться при пересечении сферы плоскостью? (в пространстве)?",
+    "atype": 0,
+    "contains_img": false,
+    "answers": [
+        {
+            "text": "Параболы",
+            "is_correct": false
+        },
+        {
+            "text": "Эллипсы ",
+            "is_correct": false
+        },
+        {
+            "text": "Гиперболы",
+            "is_correct": false
+        },
+        {
+            "text": "Прямые",
+            "is_correct": false
+        },
+        {
+            "text": "Окружности",
+            "is_correct": true
+        }
+    ]
+}

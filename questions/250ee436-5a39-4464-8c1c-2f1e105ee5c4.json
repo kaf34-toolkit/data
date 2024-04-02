@@ -1,0 +1,12 @@
+{
+    "idx": "250ee436-5a39-4464-8c1c-2f1e105ee5c4",
+    "text": "Как называется эта деталь ?",
+    "atype": 1,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Сильфон",
+            "is_correct": true
+        }
+    ]
+}

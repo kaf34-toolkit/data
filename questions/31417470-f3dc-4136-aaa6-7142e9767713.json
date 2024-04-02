@@ -1,0 +1,28 @@
+{
+    "idx": "31417470-f3dc-4136-aaa6-7142e9767713",
+    "text": "Какая линия на профильной проекции является дугой окружности? ",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "AB",
+            "is_correct": false
+        },
+        {
+            "text": "SKT",
+            "is_correct": false
+        },
+        {
+            "text": "EF",
+            "is_correct": false
+        },
+        {
+            "text": "AF",
+            "is_correct": true
+        },
+        {
+            "text": "I",
+            "is_correct": false
+        }
+    ]
+}

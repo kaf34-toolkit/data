@@ -1,0 +1,28 @@
+{
+    "idx": "417d99ec-1dae-4b54-b2c3-e08e2cd7fcd2",
+    "text": "Какая из точек не принадлежит поверхности сферы?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "2",
+            "is_correct": false
+        },
+        {
+            "text": "3",
+            "is_correct": false
+        },
+        {
+            "text": "4",
+            "is_correct": false
+        },
+        {
+            "text": "5",
+            "is_correct": false
+        },
+        {
+            "text": "1",
+            "is_correct": true
+        }
+    ]
+}

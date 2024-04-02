@@ -1,0 +1,28 @@
+{
+    "idx": "9fe133a0-fae2-47c5-bcf3-21dedd437ea9",
+    "text": "Какая из точек принадлежит поверхности сферы?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "1",
+            "is_correct": false
+        },
+        {
+            "text": "3",
+            "is_correct": true
+        },
+        {
+            "text": "2",
+            "is_correct": false
+        },
+        {
+            "text": "4",
+            "is_correct": false
+        },
+        {
+            "text": "5",
+            "is_correct": false
+        }
+    ]
+}

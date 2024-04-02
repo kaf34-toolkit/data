@@ -1,0 +1,28 @@
+{
+    "idx": "e7f4b2e9-40ca-47fc-acf7-5c03132d8d17",
+    "text": "Укажите обозначение двухзаходной ходовой резьбы.",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "S40x2",
+            "is_correct": false
+        },
+        {
+            "text": "М24х2",
+            "is_correct": false
+        },
+        {
+            "text": "Tr20x2",
+            "is_correct": false
+        },
+        {
+            "text": "М16-LH",
+            "is_correct": false
+        },
+        {
+            "text": "Tr30x6(P3)",
+            "is_correct": true
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "idx": "87906ec8-ee2b-4335-8b59-9f454b14fcba",
+    "text": "Как называется эта деталь?",
+    "atype": 1,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Шпилька",
+            "is_correct": true
+        }
+    ]
+}

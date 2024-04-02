@@ -1,0 +1,28 @@
+{
+    "idx": "21f6f8df-7123-467c-99d6-efd84a262655",
+    "text": "Сколько различных окружностей содержит профильная проекция детали? ",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "5",
+            "is_correct": false
+        },
+        {
+            "text": "2",
+            "is_correct": false
+        },
+        {
+            "text": "3",
+            "is_correct": false
+        },
+        {
+            "text": "4",
+            "is_correct": true
+        },
+        {
+            "text": "1",
+            "is_correct": false
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "idx": "314d10e8-7d77-4b96-8ab8-5401ca59d5d2",
+    "text": "Какой поверхности принадлежит точка К?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Торовой поверхности",
+            "is_correct": false
+        },
+        {
+            "text": "Конической поверхности",
+            "is_correct": false
+        },
+        {
+            "text": "Цилиндрической поверхности",
+            "is_correct": true
+        },
+        {
+            "text": "Горизонтальной плоскости",
+            "is_correct": false
+        },
+        {
+            "text": "Сферической поверхности",
+            "is_correct": false
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "idx": "3f7cdfe6-d511-460d-b77e-514d7869bb9f",
+    "text": "Сколько цилиндрических поверхностей имеет данная деталь?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "3",
+            "is_correct": true
+        },
+        {
+            "text": "5",
+            "is_correct": false
+        },
+        {
+            "text": "1",
+            "is_correct": false
+        },
+        {
+            "text": "2",
+            "is_correct": false
+        },
+        {
+            "text": "4",
+            "is_correct": false
+        }
+    ]
+}

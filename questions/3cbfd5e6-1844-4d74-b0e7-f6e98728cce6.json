@@ -1,0 +1,16 @@
+{
+    "idx": "3cbfd5e6-1844-4d74-b0e7-f6e98728cce6",
+    "text": "Как называются размеры 169* и 173* ?\nВведите термин",
+    "atype": 1,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Габаритный",
+            "is_correct": true
+        },
+        {
+            "text": "Габаритные",
+            "is_correct": true
+        }
+    ]
+}

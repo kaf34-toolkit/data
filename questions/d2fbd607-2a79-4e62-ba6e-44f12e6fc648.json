@@ -1,0 +1,12 @@
+{
+    "idx": "d2fbd607-2a79-4e62-ba6e-44f12e6fc648",
+    "text": "Как называется эта деталь?",
+    "atype": 1,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Гайка накидная",
+            "is_correct": true
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "idx": "5b9182ba-7704-46e3-b823-c1a075e139cd",
+    "text": "Какая из точек лежит на поверхности детали?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "2",
+            "is_correct": false
+        },
+        {
+            "text": "4",
+            "is_correct": true
+        },
+        {
+            "text": "5",
+            "is_correct": false
+        },
+        {
+            "text": "1",
+            "is_correct": false
+        },
+        {
+            "text": "3",
+            "is_correct": false
+        }
+    ]
+}

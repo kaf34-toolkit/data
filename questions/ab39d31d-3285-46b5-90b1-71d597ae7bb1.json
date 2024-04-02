@@ -1,0 +1,12 @@
+{
+    "idx": "ab39d31d-3285-46b5-90b1-71d597ae7bb1",
+    "text": "Тест 15 Ответ ввод",
+    "atype": 1,
+    "contains_img": false,
+    "answers": [
+        {
+            "text": "Answer 1",
+            "is_correct": true
+        }
+    ]
+}

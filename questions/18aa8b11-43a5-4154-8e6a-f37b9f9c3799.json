@@ -1,0 +1,24 @@
+{
+    "idx": "18aa8b11-43a5-4154-8e6a-f37b9f9c3799",
+    "text": "Как называется изделие, изображенное на рисунке, согласно классификации по ГОСТ 2.101-2016 ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Комплект",
+            "is_correct": false
+        },
+        {
+            "text": "Комплекс",
+            "is_correct": false
+        },
+        {
+            "text": "Деталь",
+            "is_correct": true
+        },
+        {
+            "text": "Сборочная единица",
+            "is_correct": false
+        }
+    ]
+}

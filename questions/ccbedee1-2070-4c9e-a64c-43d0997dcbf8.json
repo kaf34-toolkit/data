@@ -1,0 +1,12 @@
+{
+    "idx": "ccbedee1-2070-4c9e-a64c-43d0997dcbf8",
+    "text": "Как называется знак в надписи обозначенной цифрой 1 ?\nВведите название",
+    "atype": 1,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Уклон",
+            "is_correct": true
+        }
+    ]
+}

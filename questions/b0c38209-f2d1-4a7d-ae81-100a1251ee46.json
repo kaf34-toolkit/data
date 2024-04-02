@@ -1,0 +1,28 @@
+{
+    "idx": "b0c38209-f2d1-4a7d-ae81-100a1251ee46",
+    "text": "Где и какое обозначение метрической резьбы следует нанести на чертеже ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Над линией \"а\" : М22",
+            "is_correct": true
+        },
+        {
+            "text": "Над линией \"б\" : 16",
+            "is_correct": false
+        },
+        {
+            "text": "Над линией \"в\" : М22",
+            "is_correct": false
+        },
+        {
+            "text": "Над линией \"д\" : М16",
+            "is_correct": false
+        },
+        {
+            "text": "Над линией \"г\" : М22",
+            "is_correct": false
+        }
+    ]
+}

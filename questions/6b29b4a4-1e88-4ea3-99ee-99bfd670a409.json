@@ -1,0 +1,24 @@
+{
+    "idx": "6b29b4a4-1e88-4ea3-99ee-99bfd670a409",
+    "text": "На каком чертеже изображена профильная прямая ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "3",
+            "is_correct": false
+        },
+        {
+            "text": "4",
+            "is_correct": true
+        },
+        {
+            "text": "1",
+            "is_correct": false
+        },
+        {
+            "text": "2",
+            "is_correct": false
+        }
+    ]
+}

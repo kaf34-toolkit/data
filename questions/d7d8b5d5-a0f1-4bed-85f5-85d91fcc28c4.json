@@ -1,0 +1,28 @@
+{
+    "idx": "d7d8b5d5-a0f1-4bed-85f5-85d91fcc28c4",
+    "text": "Какая грань пирамиды или призматического отверстия на чертеже изображена в натуральную величину? ",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "MNFE",
+            "is_correct": true
+        },
+        {
+            "text": "CSD",
+            "is_correct": false
+        },
+        {
+            "text": "KHFN",
+            "is_correct": false
+        },
+        {
+            "text": "ASB",
+            "is_correct": false
+        },
+        {
+            "text": "BSC",
+            "is_correct": false
+        }
+    ]
+}

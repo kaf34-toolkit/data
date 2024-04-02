@@ -1,0 +1,28 @@
+{
+    "idx": "044de8be-3639-4b7b-afba-c9f9977b3750",
+    "text": "Какой знак следует поставить перед размерным числом 50?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "3",
+            "is_correct": false
+        },
+        {
+            "text": "4",
+            "is_correct": false
+        },
+        {
+            "text": "Никакой",
+            "is_correct": true
+        },
+        {
+            "text": "2",
+            "is_correct": false
+        },
+        {
+            "text": "1",
+            "is_correct": false
+        }
+    ]
+}

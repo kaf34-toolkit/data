@@ -1,0 +1,20 @@
+{
+    "idx": "c12f5c68-2902-419d-87ca-05d94c97f90a",
+    "text": "Назовите вид соединения",
+    "atype": 1,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Клееное",
+            "is_correct": true
+        },
+        {
+            "text": "Склеивание",
+            "is_correct": true
+        },
+        {
+            "text": "Клейка",
+            "is_correct": true
+        }
+    ]
+}

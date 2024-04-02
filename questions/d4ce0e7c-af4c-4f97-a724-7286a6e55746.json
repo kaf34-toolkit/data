@@ -1,0 +1,20 @@
+{
+    "idx": "d4ce0e7c-af4c-4f97-a724-7286a6e55746",
+    "text": "тест 3",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "True answe",
+            "is_correct": true
+        },
+        {
+            "text": "Не верный ответ 1122",
+            "is_correct": false
+        },
+        {
+            "text": "Неверный ответ 2",
+            "is_correct": false
+        }
+    ]
+}

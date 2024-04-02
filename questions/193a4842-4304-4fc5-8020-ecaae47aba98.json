@@ -1,0 +1,28 @@
+{
+    "idx": "193a4842-4304-4fc5-8020-ecaae47aba98",
+    "text": "Какая линия получится от пересечения конуса плоскостью Р?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Эллипс",
+            "is_correct": true
+        },
+        {
+            "text": "Окружность",
+            "is_correct": false
+        },
+        {
+            "text": "Гипербола",
+            "is_correct": false
+        },
+        {
+            "text": "Прямая",
+            "is_correct": false
+        },
+        {
+            "text": "Парабола",
+            "is_correct": false
+        }
+    ]
+}

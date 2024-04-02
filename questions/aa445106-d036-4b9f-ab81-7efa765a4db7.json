@@ -1,0 +1,28 @@
+{
+    "idx": "aa445106-d036-4b9f-ab81-7efa765a4db7",
+    "text": "Нужна ли надпись над изображением 1 и если нужна, то какой она должна быть ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "А",
+            "is_correct": true
+        },
+        {
+            "text": "Вид пострелке А.",
+            "is_correct": false
+        },
+        {
+            "text": "А-А",
+            "is_correct": false
+        },
+        {
+            "text": "Надпись не нужна.",
+            "is_correct": false
+        },
+        {
+            "text": "Вид А",
+            "is_correct": false
+        }
+    ]
+}

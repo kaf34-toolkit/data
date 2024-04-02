@@ -1,0 +1,28 @@
+{
+    "idx": "dc2036be-a794-4e52-8232-cdc06b6b8be5",
+    "text": "При помощи какой вспомогательной плоскости построена характерная точка 1?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "P",
+            "is_correct": false
+        },
+        {
+            "text": "R",
+            "is_correct": false
+        },
+        {
+            "text": "Q",
+            "is_correct": false
+        },
+        {
+            "text": "S",
+            "is_correct": true
+        },
+        {
+            "text": "T",
+            "is_correct": false
+        }
+    ]
+}

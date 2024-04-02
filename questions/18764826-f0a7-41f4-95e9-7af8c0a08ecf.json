@@ -1,0 +1,28 @@
+{
+    "idx": "18764826-f0a7-41f4-95e9-7af8c0a08ecf",
+    "text": "Укажите изображение соединения, полученного завальцовкой.",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "а",
+            "is_correct": false
+        },
+        {
+            "text": "б",
+            "is_correct": true
+        },
+        {
+            "text": "в",
+            "is_correct": false
+        },
+        {
+            "text": "г",
+            "is_correct": false
+        },
+        {
+            "text": "д",
+            "is_correct": false
+        }
+    ]
+}

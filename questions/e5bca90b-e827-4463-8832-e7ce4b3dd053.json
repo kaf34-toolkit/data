@@ -1,0 +1,12 @@
+{
+    "idx": "e5bca90b-e827-4463-8832-e7ce4b3dd053",
+    "text": "Как называется эта деталь?",
+    "atype": 1,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Фланец",
+            "is_correct": true
+        }
+    ]
+}

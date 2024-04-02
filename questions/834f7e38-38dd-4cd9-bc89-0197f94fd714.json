@@ -1,0 +1,28 @@
+{
+    "idx": "834f7e38-38dd-4cd9-bc89-0197f94fd714",
+    "text": "Какой размер не следует наносить на чертеже ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "F",
+            "is_correct": false
+        },
+        {
+            "text": "D",
+            "is_correct": false
+        },
+        {
+            "text": "В",
+            "is_correct": true
+        },
+        {
+            "text": "С",
+            "is_correct": false
+        },
+        {
+            "text": "E",
+            "is_correct": false
+        }
+    ]
+}

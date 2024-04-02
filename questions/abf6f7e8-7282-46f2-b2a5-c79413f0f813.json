@@ -1,0 +1,28 @@
+{
+    "idx": "abf6f7e8-7282-46f2-b2a5-c79413f0f813",
+    "text": "Какое соединение получено завальцовкой ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "2",
+            "is_correct": true
+        },
+        {
+            "text": "3",
+            "is_correct": false
+        },
+        {
+            "text": "4",
+            "is_correct": false
+        },
+        {
+            "text": "5",
+            "is_correct": false
+        },
+        {
+            "text": "1",
+            "is_correct": false
+        }
+    ]
+}

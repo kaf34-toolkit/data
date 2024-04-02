@@ -1,0 +1,28 @@
+{
+    "idx": "fb9fed1f-7803-466a-87d1-17b4ba9a6d71",
+    "text": "При нанесении какого размера допущена ошибка на рисунке ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "16",
+            "is_correct": false
+        },
+        {
+            "text": "Ошибки нет",
+            "is_correct": true
+        },
+        {
+            "text": "40",
+            "is_correct": false
+        },
+        {
+            "text": "83",
+            "is_correct": false
+        },
+        {
+            "text": "5х45",
+            "is_correct": false
+        }
+    ]
+}

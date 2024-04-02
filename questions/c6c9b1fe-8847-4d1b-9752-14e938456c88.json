@@ -1,0 +1,28 @@
+{
+    "idx": "c6c9b1fe-8847-4d1b-9752-14e938456c88",
+    "text": "Укажите обозначение правой резьбы с наибольшим шагом ?.",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Tr40x6(P3)",
+            "is_correct": false
+        },
+        {
+            "text": "M24x1.5-LH",
+            "is_correct": false
+        },
+        {
+            "text": "M10x1.25",
+            "is_correct": false
+        },
+        {
+            "text": "M30x4(P2)",
+            "is_correct": false
+        },
+        {
+            "text": "S22x5",
+            "is_correct": true
+        }
+    ]
+}

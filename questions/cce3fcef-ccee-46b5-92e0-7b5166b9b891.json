@@ -1,0 +1,20 @@
+{
+    "idx": "cce3fcef-ccee-46b5-92e0-7b5166b9b891",
+    "text": "Какое обозначение соответствует крепежной резьбе?",
+    "atype": 0,
+    "contains_img": false,
+    "answers": [
+        {
+            "text": "M16x1.5",
+            "is_correct": true
+        },
+        {
+            "text": "Tr20x2",
+            "is_correct": false
+        },
+        {
+            "text": "S22x4",
+            "is_correct": false
+        }
+    ]
+}

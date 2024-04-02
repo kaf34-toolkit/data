@@ -1,0 +1,28 @@
+{
+    "idx": "78588f3b-3bbf-4025-adcf-c232c661de5a",
+    "text": "Какая из точек принадлежит поверхности шара",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "5",
+            "is_correct": false
+        },
+        {
+            "text": "1",
+            "is_correct": false
+        },
+        {
+            "text": "4",
+            "is_correct": true
+        },
+        {
+            "text": "3",
+            "is_correct": false
+        },
+        {
+            "text": "2",
+            "is_correct": false
+        }
+    ]
+}

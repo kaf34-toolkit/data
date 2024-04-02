@@ -1,0 +1,28 @@
+{
+    "idx": "78dad2ff-1279-41b0-b5bb-6f4282d829b4",
+    "text": "На каком участке линия среза является окружностью?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Нет окружности",
+            "is_correct": false
+        },
+        {
+            "text": "IV",
+            "is_correct": true
+        },
+        {
+            "text": "II",
+            "is_correct": false
+        },
+        {
+            "text": "III",
+            "is_correct": false
+        },
+        {
+            "text": "I",
+            "is_correct": false
+        }
+    ]
+}

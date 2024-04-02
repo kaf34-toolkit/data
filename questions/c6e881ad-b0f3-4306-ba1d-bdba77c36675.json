@@ -1,0 +1,28 @@
+{
+    "idx": "c6e881ad-b0f3-4306-ba1d-bdba77c36675",
+    "text": "Какая линия на профильной проекции будет дугой окружности?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "AB",
+            "is_correct": false
+        },
+        {
+            "text": "II",
+            "is_correct": false
+        },
+        {
+            "text": "I",
+            "is_correct": false
+        },
+        {
+            "text": "DC",
+            "is_correct": false
+        },
+        {
+            "text": "BEC",
+            "is_correct": true
+        }
+    ]
+}

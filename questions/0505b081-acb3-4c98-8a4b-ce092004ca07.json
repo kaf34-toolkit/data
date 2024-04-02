@@ -1,0 +1,28 @@
+{
+    "idx": "0505b081-acb3-4c98-8a4b-ce092004ca07",
+    "text": "На каком чертеже линии параллельны ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "5",
+            "is_correct": false
+        },
+        {
+            "text": "3",
+            "is_correct": false
+        },
+        {
+            "text": "4",
+            "is_correct": false
+        },
+        {
+            "text": "2",
+            "is_correct": false
+        },
+        {
+            "text": "1",
+            "is_correct": true
+        }
+    ]
+}

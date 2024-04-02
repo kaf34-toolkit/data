@@ -1,0 +1,28 @@
+{
+    "idx": "392af38d-3283-4d80-85a5-480db2f106c2",
+    "text": "Что служит базой для создания линейного размера \"А\" ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "IV",
+            "is_correct": false
+        },
+        {
+            "text": "III",
+            "is_correct": false
+        },
+        {
+            "text": "V",
+            "is_correct": false
+        },
+        {
+            "text": "II",
+            "is_correct": true
+        },
+        {
+            "text": "I",
+            "is_correct": false
+        }
+    ]
+}

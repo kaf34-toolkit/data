@@ -1,0 +1,12 @@
+{
+    "idx": "26503fed-57e6-4195-a15a-958fe2ed8d16",
+    "text": "Как называется деталь обозначенная позицией 3 ?",
+    "atype": 1,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Пружина",
+            "is_correct": true
+        }
+    ]
+}

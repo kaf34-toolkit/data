@@ -1,0 +1,28 @@
+{
+    "idx": "ffc3dd41-b44d-457d-ad40-2bb556355b8b",
+    "text": "Какую линию представляет собой линия среза на участке II?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Гиперболу",
+            "is_correct": false
+        },
+        {
+            "text": "Параболу",
+            "is_correct": false
+        },
+        {
+            "text": "Окружность",
+            "is_correct": false
+        },
+        {
+            "text": "Прямую",
+            "is_correct": true
+        },
+        {
+            "text": "Эллипс",
+            "is_correct": false
+        }
+    ]
+}

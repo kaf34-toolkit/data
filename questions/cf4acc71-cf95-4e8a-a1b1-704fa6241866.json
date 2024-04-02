@@ -1,0 +1,28 @@
+{
+    "idx": "cf4acc71-cf95-4e8a-a1b1-704fa6241866",
+    "text": "Какой чертеж резьбового соединения выполнен правильно ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "5",
+            "is_correct": false
+        },
+        {
+            "text": "4",
+            "is_correct": true
+        },
+        {
+            "text": "1",
+            "is_correct": false
+        },
+        {
+            "text": "3",
+            "is_correct": false
+        },
+        {
+            "text": "2",
+            "is_correct": false
+        }
+    ]
+}

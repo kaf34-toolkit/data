@@ -1,0 +1,28 @@
+{
+    "idx": "e4c811a4-cde2-4299-bd2f-6c3c5bcbe50e",
+    "text": "Сколько различных кривых получится от пересечения детали плоскостью Р? (Количество кривых различных по названиям или параметрам)",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "4",
+            "is_correct": false
+        },
+        {
+            "text": "1",
+            "is_correct": false
+        },
+        {
+            "text": "2",
+            "is_correct": true
+        },
+        {
+            "text": "3",
+            "is_correct": false
+        },
+        {
+            "text": "5",
+            "is_correct": false
+        }
+    ]
+}

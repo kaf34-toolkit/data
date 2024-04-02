@@ -1,0 +1,28 @@
+{
+    "idx": "319d8477-9555-47cd-925b-1cb527fbeb8a",
+    "text": "Укажите, какое из изображений представленных на рисунке выполнено с ошибкой ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "б",
+            "is_correct": true
+        },
+        {
+            "text": "г",
+            "is_correct": false
+        },
+        {
+            "text": "в",
+            "is_correct": false
+        },
+        {
+            "text": "д",
+            "is_correct": false
+        },
+        {
+            "text": "а",
+            "is_correct": false
+        }
+    ]
+}

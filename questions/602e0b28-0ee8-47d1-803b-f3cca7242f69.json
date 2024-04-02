@@ -1,0 +1,28 @@
+{
+    "idx": "602e0b28-0ee8-47d1-803b-f3cca7242f69",
+    "text": "Какие образующие цилиндров делят фронтальную проекцию линии пересечения на видимую и невидимую части?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "C и D",
+            "is_correct": false
+        },
+        {
+            "text": "G и H",
+            "is_correct": false
+        },
+        {
+            "text": "A и B",
+            "is_correct": true
+        },
+        {
+            "text": "E и F",
+            "is_correct": false
+        },
+        {
+            "text": "K и L",
+            "is_correct": false
+        }
+    ]
+}

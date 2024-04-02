@@ -1,0 +1,12 @@
+{
+    "idx": "08305879-062e-4f3f-9d09-319221eba7e6",
+    "text": "Как называется эта деталь?",
+    "atype": 1,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Шпонка",
+            "is_correct": true
+        }
+    ]
+}

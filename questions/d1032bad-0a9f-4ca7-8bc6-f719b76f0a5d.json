@@ -1,0 +1,28 @@
+{
+    "idx": "d1032bad-0a9f-4ca7-8bc6-f719b76f0a5d",
+    "text": "Какая вспомогательная секущая плоскость позволяет определить самую удаленную от фронтальной плоскости проекций точку линии пересечения?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Q",
+            "is_correct": false
+        },
+        {
+            "text": "P",
+            "is_correct": true
+        },
+        {
+            "text": "S",
+            "is_correct": false
+        },
+        {
+            "text": "T",
+            "is_correct": false
+        },
+        {
+            "text": "R",
+            "is_correct": false
+        }
+    ]
+}

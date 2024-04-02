@@ -1,0 +1,32 @@
+{
+    "idx": "90fbf37f-b7aa-4a1b-8879-96bbd0fcfe49",
+    "text": "Укажите вид сзади.",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "4",
+            "is_correct": false
+        },
+        {
+            "text": "2",
+            "is_correct": false
+        },
+        {
+            "text": "5",
+            "is_correct": false
+        },
+        {
+            "text": "3",
+            "is_correct": false
+        },
+        {
+            "text": "6",
+            "is_correct": true
+        },
+        {
+            "text": "1",
+            "is_correct": false
+        }
+    ]
+}

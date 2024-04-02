@@ -1,0 +1,28 @@
+{
+    "idx": "7b22a85f-504c-4d3e-8e75-4d105354706b",
+    "text": "Как называется изображение обозначенное цифрой 2 ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Вид снизу.",
+            "is_correct": true
+        },
+        {
+            "text": "Дополнительный вид.",
+            "is_correct": false
+        },
+        {
+            "text": "Вид сверху.",
+            "is_correct": false
+        },
+        {
+            "text": "Местный вид.",
+            "is_correct": false
+        },
+        {
+            "text": "Вид слева.",
+            "is_correct": false
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "idx": "a5386e2a-6163-4597-a5e4-3e9c8f6bd0e6",
+    "text": "Какая линия является контуром наложенного сечения ?",
+    "atype": 0,
+    "contains_img": false,
+    "answers": [
+        {
+            "text": "Две точки пунктир",
+            "is_correct": false
+        },
+        {
+            "text": "Основная толстая",
+            "is_correct": false
+        },
+        {
+            "text": "Штриховая",
+            "is_correct": false
+        },
+        {
+            "text": "Основная тонкая",
+            "is_correct": true
+        },
+        {
+            "text": "Штрихпунктирная",
+            "is_correct": false
+        }
+    ]
+}

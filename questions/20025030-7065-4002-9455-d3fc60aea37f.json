@@ -1,0 +1,28 @@
+{
+    "idx": "20025030-7065-4002-9455-d3fc60aea37f",
+    "text": "Какой инструмент следует применить для измерения ширины паза \"А\" ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Штангенциркуль",
+            "is_correct": true
+        },
+        {
+            "text": "Радиусомер",
+            "is_correct": false
+        },
+        {
+            "text": "Резьбомер",
+            "is_correct": false
+        },
+        {
+            "text": "Рейсмус",
+            "is_correct": false
+        },
+        {
+            "text": "Угломер",
+            "is_correct": false
+        }
+    ]
+}

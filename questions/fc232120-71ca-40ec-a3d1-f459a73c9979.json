@@ -1,0 +1,28 @@
+{
+    "idx": "fc232120-71ca-40ec-a3d1-f459a73c9979",
+    "text": "Какой из параметров или элементов резьбы обозначен буквой \"д\" ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Наружный диаметр резьбы",
+            "is_correct": false
+        },
+        {
+            "text": "Шаг резьбы",
+            "is_correct": true
+        },
+        {
+            "text": "Вершина профиля",
+            "is_correct": false
+        },
+        {
+            "text": "Угол профиля",
+            "is_correct": false
+        },
+        {
+            "text": "Фаска",
+            "is_correct": false
+        }
+    ]
+}

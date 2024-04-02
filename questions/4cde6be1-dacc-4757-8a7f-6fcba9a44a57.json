@@ -1,0 +1,28 @@
+{
+    "idx": "4cde6be1-dacc-4757-8a7f-6fcba9a44a57",
+    "text": "Какие линии в пространстве могут получиться при пересечении сферы плоскостью общего положения?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Параболы",
+            "is_correct": false
+        },
+        {
+            "text": "Окружности",
+            "is_correct": true
+        },
+        {
+            "text": "Прямые",
+            "is_correct": false
+        },
+        {
+            "text": "Эллипсы",
+            "is_correct": false
+        },
+        {
+            "text": "Гиперболы",
+            "is_correct": false
+        }
+    ]
+}

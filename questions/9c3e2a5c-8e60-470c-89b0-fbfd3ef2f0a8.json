@@ -1,0 +1,28 @@
+{
+    "idx": "9c3e2a5c-8e60-470c-89b0-fbfd3ef2f0a8",
+    "text": "Какой плоскости принадлежит точка F? ",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Горизонтальной",
+            "is_correct": true
+        },
+        {
+            "text": "Горизонтально-проецирующей",
+            "is_correct": false
+        },
+        {
+            "text": "Профильной",
+            "is_correct": false
+        },
+        {
+            "text": "Фронтальной",
+            "is_correct": false
+        },
+        {
+            "text": "Общего положения",
+            "is_correct": false
+        }
+    ]
+}

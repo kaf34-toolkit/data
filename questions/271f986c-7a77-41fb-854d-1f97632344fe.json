@@ -1,0 +1,28 @@
+{
+    "idx": "271f986c-7a77-41fb-854d-1f97632344fe",
+    "text": "Что служит базой для задания ширины проточки \"А\" ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "I",
+            "is_correct": true
+        },
+        {
+            "text": "V",
+            "is_correct": false
+        },
+        {
+            "text": "II",
+            "is_correct": false
+        },
+        {
+            "text": "IV",
+            "is_correct": false
+        },
+        {
+            "text": "III",
+            "is_correct": false
+        }
+    ]
+}

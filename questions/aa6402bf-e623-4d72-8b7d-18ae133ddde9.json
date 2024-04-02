@@ -1,0 +1,28 @@
+{
+    "idx": "aa6402bf-e623-4d72-8b7d-18ae133ddde9",
+    "text": "На каком из показанных изображений разрез выполнен и оформлен согласно ГОСТ ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "5",
+            "is_correct": true
+        },
+        {
+            "text": "2",
+            "is_correct": false
+        },
+        {
+            "text": "4",
+            "is_correct": false
+        },
+        {
+            "text": "3",
+            "is_correct": false
+        },
+        {
+            "text": "1",
+            "is_correct": false
+        }
+    ]
+}

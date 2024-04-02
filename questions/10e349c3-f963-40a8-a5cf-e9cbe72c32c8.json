@@ -1,0 +1,28 @@
+{
+    "idx": "10e349c3-f963-40a8-a5cf-e9cbe72c32c8",
+    "text": "Какая грань пирамиды или призматического отверстия является профильно-проецирующей плоскостью?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "ASB",
+            "is_correct": false
+        },
+        {
+            "text": "CSD",
+            "is_correct": false
+        },
+        {
+            "text": "BSC",
+            "is_correct": true
+        },
+        {
+            "text": "FNKH",
+            "is_correct": false
+        },
+        {
+            "text": "EGLM",
+            "is_correct": false
+        }
+    ]
+}

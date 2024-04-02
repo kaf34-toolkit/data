@@ -1,0 +1,28 @@
+{
+    "idx": "6a4bc3f8-91d5-4127-8e55-3f00082cc845",
+    "text": "Сколько характерных точек имеет линия пересечения цилиндров I и II?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "1",
+            "is_correct": false
+        },
+        {
+            "text": "2",
+            "is_correct": false
+        },
+        {
+            "text": "5",
+            "is_correct": false
+        },
+        {
+            "text": "3",
+            "is_correct": false
+        },
+        {
+            "text": "4",
+            "is_correct": true
+        }
+    ]
+}

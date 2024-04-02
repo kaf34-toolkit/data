@@ -1,0 +1,28 @@
+{
+    "idx": "4b6bdb89-f509-4543-bef6-c4201c6ee004",
+    "text": "Какая из точек принадлежит поверхности детали?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "3",
+            "is_correct": false
+        },
+        {
+            "text": "4",
+            "is_correct": false
+        },
+        {
+            "text": "2",
+            "is_correct": false
+        },
+        {
+            "text": "5",
+            "is_correct": true
+        },
+        {
+            "text": "1",
+            "is_correct": false
+        }
+    ]
+}

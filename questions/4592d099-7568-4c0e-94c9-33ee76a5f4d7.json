@@ -1,0 +1,28 @@
+{
+    "idx": "4592d099-7568-4c0e-94c9-33ee76a5f4d7",
+    "text": "Какая грань призматического отверстия в сфере ограничена на профильной прекции эллипсом?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "CD",
+            "is_correct": false
+        },
+        {
+            "text": "EA",
+            "is_correct": true
+        },
+        {
+            "text": "DE",
+            "is_correct": false
+        },
+        {
+            "text": "AB",
+            "is_correct": false
+        },
+        {
+            "text": "BC",
+            "is_correct": false
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "idx": "f830301d-ebd8-441f-9aab-b64a6539ebd8",
+    "text": "Какой конструкторский документ является основным для сборочной единицы ?",
+    "atype": 0,
+    "contains_img": false,
+    "answers": [
+        {
+            "text": "Чертеж общего вида",
+            "is_correct": false
+        },
+        {
+            "text": "Схема",
+            "is_correct": false
+        },
+        {
+            "text": "Сборочный чертеж",
+            "is_correct": false
+        },
+        {
+            "text": "Пояснительная записка",
+            "is_correct": false
+        },
+        {
+            "text": "Спецификация",
+            "is_correct": true
+        }
+    ]
+}

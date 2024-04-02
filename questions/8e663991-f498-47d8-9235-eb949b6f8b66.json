@@ -1,0 +1,28 @@
+{
+    "idx": "8e663991-f498-47d8-9235-eb949b6f8b66",
+    "text": "Какая из точек лежит на поверхности пирамиды?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "2",
+            "is_correct": true
+        },
+        {
+            "text": "1",
+            "is_correct": false
+        },
+        {
+            "text": "5",
+            "is_correct": false
+        },
+        {
+            "text": "4",
+            "is_correct": false
+        },
+        {
+            "text": "3",
+            "is_correct": false
+        }
+    ]
+}

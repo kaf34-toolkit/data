@@ -1,0 +1,28 @@
+{
+    "idx": "c5f636bb-cae8-4dc2-9131-f23de6e6ccb8",
+    "text": "Укажите, какое изображение является вынесенным сечением А-А и выполнено без ошибок.",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "б",
+            "is_correct": false
+        },
+        {
+            "text": "д",
+            "is_correct": false
+        },
+        {
+            "text": "г",
+            "is_correct": true
+        },
+        {
+            "text": "а",
+            "is_correct": false
+        },
+        {
+            "text": "в",
+            "is_correct": false
+        }
+    ]
+}

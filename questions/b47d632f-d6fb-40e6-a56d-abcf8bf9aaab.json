@@ -1,0 +1,28 @@
+{
+    "idx": "b47d632f-d6fb-40e6-a56d-abcf8bf9aaab",
+    "text": "Как называется линия изображенная на чертеже ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Фронтальная линия",
+            "is_correct": false
+        },
+        {
+            "text": "Линия уровня",
+            "is_correct": false
+        },
+        {
+            "text": "Фронтально-проецирующая",
+            "is_correct": false
+        },
+        {
+            "text": "Линия общего положения",
+            "is_correct": true
+        },
+        {
+            "text": "Горизонтально-проецирующая",
+            "is_correct": false
+        }
+    ]
+}

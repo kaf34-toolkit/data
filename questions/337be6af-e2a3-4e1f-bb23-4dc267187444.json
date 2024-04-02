@@ -1,0 +1,28 @@
+{
+    "idx": "337be6af-e2a3-4e1f-bb23-4dc267187444",
+    "text": "Как называется изображение обозначенное цифрой 1?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Дополнительный вид",
+            "is_correct": true
+        },
+        {
+            "text": "Вид слева",
+            "is_correct": false
+        },
+        {
+            "text": "Вид снизу",
+            "is_correct": false
+        },
+        {
+            "text": "Местный вид",
+            "is_correct": false
+        },
+        {
+            "text": "Вид справа",
+            "is_correct": false
+        }
+    ]
+}

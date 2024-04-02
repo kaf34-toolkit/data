@@ -1,0 +1,28 @@
+{
+    "idx": "e2378f5e-4d72-4ad5-bf1e-eb0b97a4b598",
+    "text": "Какое изображение является наложенным сечением ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "б",
+            "is_correct": false
+        },
+        {
+            "text": "г",
+            "is_correct": false
+        },
+        {
+            "text": "а",
+            "is_correct": false
+        },
+        {
+            "text": "в",
+            "is_correct": true
+        },
+        {
+            "text": "д",
+            "is_correct": false
+        }
+    ]
+}

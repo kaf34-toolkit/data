@@ -1,0 +1,28 @@
+{
+    "idx": "f7d3b292-d851-435a-9ab5-b65b411e3557",
+    "text": "Как называется плоскость изображенная на чертеже ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Горизонтальная",
+            "is_correct": false
+        },
+        {
+            "text": "Профильная уровня",
+            "is_correct": false
+        },
+        {
+            "text": "Общего положения",
+            "is_correct": true
+        },
+        {
+            "text": "Фронтальная",
+            "is_correct": false
+        },
+        {
+            "text": "Частного положения",
+            "is_correct": false
+        }
+    ]
+}

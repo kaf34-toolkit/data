@@ -1,0 +1,28 @@
+{
+    "idx": "5370a5fd-0980-4b3c-84c1-f45ba586301c",
+    "text": "Какая грань пирамиды является профильно-проецирующей плоскостью? ",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "ASF",
+            "is_correct": false
+        },
+        {
+            "text": "ASB",
+            "is_correct": false
+        },
+        {
+            "text": "CSD",
+            "is_correct": false
+        },
+        {
+            "text": "BSC",
+            "is_correct": true
+        },
+        {
+            "text": "ECD",
+            "is_correct": false
+        }
+    ]
+}

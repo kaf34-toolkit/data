@@ -1,0 +1,12 @@
+{
+    "idx": "a40d8be2-5df0-48bf-b45f-d45318c15162",
+    "text": "Тест 4",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Правильный ответ ",
+            "is_correct": true
+        }
+    ]
+}

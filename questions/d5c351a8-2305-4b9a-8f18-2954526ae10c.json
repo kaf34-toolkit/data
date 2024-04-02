@@ -1,0 +1,28 @@
+{
+    "idx": "d5c351a8-2305-4b9a-8f18-2954526ae10c",
+    "text": "Какая из точек заданных на видимой поверхности детали принадлежит цилиндру?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "E",
+            "is_correct": false
+        },
+        {
+            "text": "A",
+            "is_correct": false
+        },
+        {
+            "text": "D",
+            "is_correct": false
+        },
+        {
+            "text": "C",
+            "is_correct": true
+        },
+        {
+            "text": "B",
+            "is_correct": false
+        }
+    ]
+}

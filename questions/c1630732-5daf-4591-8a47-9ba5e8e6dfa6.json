@@ -1,0 +1,28 @@
+{
+    "idx": "c1630732-5daf-4591-8a47-9ba5e8e6dfa6",
+    "text": "Каой вид имеет линия a'' b'' принадлежащая поаерхности тора, на фронтальной плоскости проекций?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Эллипс",
+            "is_correct": false
+        },
+        {
+            "text": "Парабола",
+            "is_correct": false
+        },
+        {
+            "text": "Прямая",
+            "is_correct": false
+        },
+        {
+            "text": "Гипербола",
+            "is_correct": false
+        },
+        {
+            "text": "Окружность",
+            "is_correct": true
+        }
+    ]
+}

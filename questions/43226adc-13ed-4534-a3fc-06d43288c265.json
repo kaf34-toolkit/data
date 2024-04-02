@@ -1,0 +1,28 @@
+{
+    "idx": "43226adc-13ed-4534-a3fc-06d43288c265",
+    "text": "Какой высоты следует писать знак \"R\" если высота цифр размерных чисел 3.5мм?",
+    "atype": 0,
+    "contains_img": false,
+    "answers": [
+        {
+            "text": "4.5",
+            "is_correct": false
+        },
+        {
+            "text": "4.2",
+            "is_correct": false
+        },
+        {
+            "text": "2.5",
+            "is_correct": false
+        },
+        {
+            "text": "3.5",
+            "is_correct": false
+        },
+        {
+            "text": "4",
+            "is_correct": false
+        }
+    ]
+}

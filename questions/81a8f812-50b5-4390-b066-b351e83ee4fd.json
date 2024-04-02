@@ -1,0 +1,28 @@
+{
+    "idx": "81a8f812-50b5-4390-b066-b351e83ee4fd",
+    "text": "Какое из 5 изображений соответствует виду слева предмета, заданного двумя видами - спереди и сверху?.",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "2",
+            "is_correct": false
+        },
+        {
+            "text": "5",
+            "is_correct": false
+        },
+        {
+            "text": "3",
+            "is_correct": false
+        },
+        {
+            "text": "4",
+            "is_correct": true
+        },
+        {
+            "text": "1",
+            "is_correct": false
+        }
+    ]
+}

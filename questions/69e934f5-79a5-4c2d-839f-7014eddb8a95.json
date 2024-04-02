@@ -1,0 +1,28 @@
+{
+    "idx": "69e934f5-79a5-4c2d-839f-7014eddb8a95",
+    "text": "Какой поверхности принадлежит точка А?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Плоскости",
+            "is_correct": false
+        },
+        {
+            "text": "Поверхность конуса",
+            "is_correct": false
+        },
+        {
+            "text": "Поверхность сферы",
+            "is_correct": false
+        },
+        {
+            "text": "Поверхность цилиндра",
+            "is_correct": true
+        },
+        {
+            "text": "Поверхность тора",
+            "is_correct": false
+        }
+    ]
+}

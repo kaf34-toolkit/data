@@ -1,0 +1,28 @@
+{
+    "idx": "85c85ea3-7a30-4f1e-b041-0467c6784c99",
+    "text": "Какое из рёбер пирамиды является профильной прямой? ",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "DS",
+            "is_correct": false
+        },
+        {
+            "text": "BS",
+            "is_correct": false
+        },
+        {
+            "text": "CS",
+            "is_correct": false
+        },
+        {
+            "text": "ES",
+            "is_correct": true
+        },
+        {
+            "text": "AS",
+            "is_correct": false
+        }
+    ]
+}

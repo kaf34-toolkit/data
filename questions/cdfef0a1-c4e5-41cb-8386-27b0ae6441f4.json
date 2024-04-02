@@ -1,0 +1,28 @@
+{
+    "idx": "cdfef0a1-c4e5-41cb-8386-27b0ae6441f4",
+    "text": "Какая из указанных фигур является сечением Б-Б ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "г",
+            "is_correct": true
+        },
+        {
+            "text": "в",
+            "is_correct": false
+        },
+        {
+            "text": "д",
+            "is_correct": false
+        },
+        {
+            "text": "б",
+            "is_correct": false
+        },
+        {
+            "text": "а",
+            "is_correct": false
+        }
+    ]
+}

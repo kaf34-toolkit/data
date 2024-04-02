@@ -1,0 +1,12 @@
+{
+    "idx": "edc87e1b-d41e-4e4a-91f3-eaa6672ba949",
+    "text": "Как называется эта деталь?",
+    "atype": 1,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Шплинт",
+            "is_correct": true
+        }
+    ]
+}

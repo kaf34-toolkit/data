@@ -1,0 +1,20 @@
+{
+    "idx": "e64c63f8-04c6-4e0e-809d-5e4f3da2af9f",
+    "text": "Ось Х образуется пересечением плоскостей",
+    "atype": 0,
+    "contains_img": false,
+    "answers": [
+        {
+            "text": "Профильной и горизонтальной",
+            "is_correct": false
+        },
+        {
+            "text": "Фронтальной и горизонтальной",
+            "is_correct": true
+        },
+        {
+            "text": "Фронтальной и профильной ",
+            "is_correct": false
+        }
+    ]
+}

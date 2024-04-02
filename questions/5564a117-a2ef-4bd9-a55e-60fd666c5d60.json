@@ -1,0 +1,28 @@
+{
+    "idx": "5564a117-a2ef-4bd9-a55e-60fd666c5d60",
+    "text": "Какое минимальное расстояние должно быть от контурной линии чертежа до размерной линии ?",
+    "atype": 0,
+    "contains_img": false,
+    "answers": [
+        {
+            "text": "5",
+            "is_correct": false
+        },
+        {
+            "text": "14",
+            "is_correct": false
+        },
+        {
+            "text": "10",
+            "is_correct": true
+        },
+        {
+            "text": "произвольное",
+            "is_correct": false
+        },
+        {
+            "text": "7",
+            "is_correct": false
+        }
+    ]
+}

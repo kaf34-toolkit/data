@@ -1,0 +1,28 @@
+{
+    "idx": "d62d6f40-2f37-493e-b5f3-36714abc8fa9",
+    "text": "Как называется параметр резьбы обозначенный буквой \"б\" ? ",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Угол профиля",
+            "is_correct": false
+        },
+        {
+            "text": "Фаска",
+            "is_correct": false
+        },
+        {
+            "text": "Ход резьбы",
+            "is_correct": false
+        },
+        {
+            "text": "Вершина профиля",
+            "is_correct": false
+        },
+        {
+            "text": "Сбег резьбы",
+            "is_correct": true
+        }
+    ]
+}

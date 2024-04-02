@@ -1,0 +1,12 @@
+{
+    "idx": "81ccea11-616b-4d18-88cb-eeca332f208e",
+    "text": "Вопрос 1",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Ответ 2",
+            "is_correct": true
+        }
+    ]
+}

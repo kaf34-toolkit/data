@@ -1,0 +1,28 @@
+{
+    "idx": "e0bb5a25-4e48-42d7-a498-f592fa3da2db",
+    "text": "Сколько точек линии пересечения, при построении ее проекций, не требует использования вспомогательной поверхности?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "5",
+            "is_correct": false
+        },
+        {
+            "text": "4",
+            "is_correct": false
+        },
+        {
+            "text": "1",
+            "is_correct": false
+        },
+        {
+            "text": "2",
+            "is_correct": true
+        },
+        {
+            "text": "3",
+            "is_correct": false
+        }
+    ]
+}

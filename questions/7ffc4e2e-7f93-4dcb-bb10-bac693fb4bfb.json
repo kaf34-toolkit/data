@@ -1,0 +1,28 @@
+{
+    "idx": "7ffc4e2e-7f93-4dcb-bb10-bac693fb4bfb",
+    "text": "Какое из ребер пирамиды параллельно профильной плоскости проекций? ",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "FS",
+            "is_correct": false
+        },
+        {
+            "text": "CS",
+            "is_correct": false
+        },
+        {
+            "text": "AS",
+            "is_correct": false
+        },
+        {
+            "text": "DS",
+            "is_correct": false
+        },
+        {
+            "text": "ES",
+            "is_correct": true
+        }
+    ]
+}

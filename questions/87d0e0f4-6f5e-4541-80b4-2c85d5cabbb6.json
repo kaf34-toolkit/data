@@ -1,0 +1,12 @@
+{
+    "idx": "87d0e0f4-6f5e-4541-80b4-2c85d5cabbb6",
+    "text": "Ввести количество отрезков",
+    "atype": 1,
+    "contains_img": false,
+    "answers": [
+        {
+            "text": "18",
+            "is_correct": true
+        }
+    ]
+}

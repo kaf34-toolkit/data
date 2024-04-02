@@ -1,0 +1,28 @@
+{
+    "idx": "181fbbfd-beeb-44d6-bea2-daeb8e496bac",
+    "text": "Какой плоскости принадлежит точка R? ",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Горизонтально-проецирующей",
+            "is_correct": false
+        },
+        {
+            "text": "Профильной",
+            "is_correct": false
+        },
+        {
+            "text": "Фронтальной",
+            "is_correct": false
+        },
+        {
+            "text": "Общего положения",
+            "is_correct": false
+        },
+        {
+            "text": "Горизонтальной",
+            "is_correct": true
+        }
+    ]
+}

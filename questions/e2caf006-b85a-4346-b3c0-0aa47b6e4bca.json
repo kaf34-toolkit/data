@@ -1,0 +1,12 @@
+{
+    "idx": "e2caf006-b85a-4346-b3c0-0aa47b6e4bca",
+    "text": "Сколько окружностей ограничивает профильную проекцию фигуры? ",
+    "atype": 1,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "1",
+            "is_correct": true
+        }
+    ]
+}

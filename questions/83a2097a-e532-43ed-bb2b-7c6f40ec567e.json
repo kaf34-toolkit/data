@@ -1,0 +1,12 @@
+{
+    "idx": "83a2097a-e532-43ed-bb2b-7c6f40ec567e",
+    "text": "Каккие проекции соответствуют изображению А",
+    "atype": 1,
+    "contains_img": false,
+    "answers": [
+        {
+            "text": "11",
+            "is_correct": true
+        }
+    ]
+}

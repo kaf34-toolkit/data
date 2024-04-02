@@ -1,0 +1,28 @@
+{
+    "idx": "856ab44c-88cd-432f-9797-bcdc84b89914",
+    "text": "Какое изображение соответствует сечению плоскостью А-А ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "б",
+            "is_correct": false
+        },
+        {
+            "text": "в",
+            "is_correct": false
+        },
+        {
+            "text": "а",
+            "is_correct": false
+        },
+        {
+            "text": "г",
+            "is_correct": true
+        },
+        {
+            "text": "д",
+            "is_correct": false
+        }
+    ]
+}

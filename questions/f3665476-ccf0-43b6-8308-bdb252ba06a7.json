@@ -1,0 +1,28 @@
+{
+    "idx": "f3665476-ccf0-43b6-8308-bdb252ba06a7",
+    "text": "Какой размер не следует наносить на чертеже детали ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "l3",
+            "is_correct": false
+        },
+        {
+            "text": "D",
+            "is_correct": false
+        },
+        {
+            "text": "l2",
+            "is_correct": false
+        },
+        {
+            "text": "l1",
+            "is_correct": false
+        },
+        {
+            "text": "l4",
+            "is_correct": true
+        }
+    ]
+}

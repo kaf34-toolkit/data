@@ -1,0 +1,28 @@
+{
+    "idx": "a02bc8a5-c1d5-4918-bc01-f0cc43bb6026",
+    "text": "Какой линией в пространстве является линия F?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Гиперболой",
+            "is_correct": false
+        },
+        {
+            "text": "Прямой",
+            "is_correct": false
+        },
+        {
+            "text": "Эллипсом",
+            "is_correct": false
+        },
+        {
+            "text": "Окружностью",
+            "is_correct": true
+        },
+        {
+            "text": "Параболой",
+            "is_correct": false
+        }
+    ]
+}

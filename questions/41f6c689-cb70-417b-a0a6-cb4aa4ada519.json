@@ -1,0 +1,12 @@
+{
+    "idx": "41f6c689-cb70-417b-a0a6-cb4aa4ada519",
+    "text": "Как называется эта деталь?",
+    "atype": 1,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Шайба",
+            "is_correct": true
+        }
+    ]
+}

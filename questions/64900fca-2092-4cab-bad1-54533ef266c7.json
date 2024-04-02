@@ -1,0 +1,28 @@
+{
+    "idx": "64900fca-2092-4cab-bad1-54533ef266c7",
+    "text": "Какое изображение соответствует горизонтальному разрезу предмета, изображенного на чертеже ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "4",
+            "is_correct": false
+        },
+        {
+            "text": "2",
+            "is_correct": false
+        },
+        {
+            "text": "3",
+            "is_correct": true
+        },
+        {
+            "text": "1",
+            "is_correct": false
+        },
+        {
+            "text": "5",
+            "is_correct": false
+        }
+    ]
+}

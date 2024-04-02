@@ -1,0 +1,28 @@
+{
+    "idx": "f383e7c7-fc8a-4543-95b6-9d652221b150",
+    "text": "На каком чертеже резьба изображена без ошибок ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "5",
+            "is_correct": false
+        },
+        {
+            "text": "4",
+            "is_correct": false
+        },
+        {
+            "text": "1",
+            "is_correct": false
+        },
+        {
+            "text": "3",
+            "is_correct": true
+        },
+        {
+            "text": "2",
+            "is_correct": false
+        }
+    ]
+}

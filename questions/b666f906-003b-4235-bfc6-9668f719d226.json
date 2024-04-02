@@ -1,0 +1,28 @@
+{
+    "idx": "b666f906-003b-4235-bfc6-9668f719d226",
+    "text": "Какое из рёбер пирамиды на фронтальной проекции изображено в натуральную величину?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "CS",
+            "is_correct": false
+        },
+        {
+            "text": "FS",
+            "is_correct": false
+        },
+        {
+            "text": "BS",
+            "is_correct": false
+        },
+        {
+            "text": "ES",
+            "is_correct": false
+        },
+        {
+            "text": "AS",
+            "is_correct": true
+        }
+    ]
+}

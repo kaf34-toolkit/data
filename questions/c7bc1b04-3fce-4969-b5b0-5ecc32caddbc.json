@@ -1,0 +1,28 @@
+{
+    "idx": "c7bc1b04-3fce-4969-b5b0-5ecc32caddbc",
+    "text": "При прмощи каких вспомогательных секущих плоскостей построена фронтальная проекция выреза?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Профильных",
+            "is_correct": false
+        },
+        {
+            "text": "Горизонтальных",
+            "is_correct": false
+        },
+        {
+            "text": "Фронтально-проецирующих",
+            "is_correct": false
+        },
+        {
+            "text": "Фронтальных",
+            "is_correct": true
+        },
+        {
+            "text": "Горизонтально-проецирующих",
+            "is_correct": false
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "idx": "6b53d8c1-7a02-4a0c-b9ae-d25a32ef3ca0",
+    "text": "Какая из точек принадлежит грани пирамиды? ",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "5",
+            "is_correct": false
+        },
+        {
+            "text": "1",
+            "is_correct": false
+        },
+        {
+            "text": "3",
+            "is_correct": false
+        },
+        {
+            "text": "4",
+            "is_correct": false
+        },
+        {
+            "text": "2",
+            "is_correct": true
+        }
+    ]
+}

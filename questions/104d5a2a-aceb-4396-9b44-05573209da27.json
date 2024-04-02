@@ -1,0 +1,28 @@
+{
+    "idx": "104d5a2a-aceb-4396-9b44-05573209da27",
+    "text": "Какой разрез применен для выявления отверстия на чертеже ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Ломаный.",
+            "is_correct": false
+        },
+        {
+            "text": "Простой фронтальный.",
+            "is_correct": false
+        },
+        {
+            "text": "Простой горизонтальный.",
+            "is_correct": false
+        },
+        {
+            "text": "Ступенчатый.",
+            "is_correct": false
+        },
+        {
+            "text": "Местный.",
+            "is_correct": true
+        }
+    ]
+}

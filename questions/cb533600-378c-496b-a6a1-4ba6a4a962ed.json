@@ -1,0 +1,28 @@
+{
+    "idx": "cb533600-378c-496b-a6a1-4ba6a4a962ed",
+    "text": "Нужна ли надпись над изображением 1 и если нужна, то какая ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Вид сверху.",
+            "is_correct": false
+        },
+        {
+            "text": "А",
+            "is_correct": true
+        },
+        {
+            "text": "Вид по стрелке А.",
+            "is_correct": false
+        },
+        {
+            "text": "Надпись не нужна.",
+            "is_correct": false
+        },
+        {
+            "text": "А-А",
+            "is_correct": false
+        }
+    ]
+}

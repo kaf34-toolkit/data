@@ -1,0 +1,28 @@
+{
+    "idx": "37ee9a75-a838-4a67-8bb4-06d1e82862d0",
+    "text": "На каком чертеже изображена фротально-проецирующая линия  ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "4",
+            "is_correct": false
+        },
+        {
+            "text": "2",
+            "is_correct": true
+        },
+        {
+            "text": "3",
+            "is_correct": false
+        },
+        {
+            "text": "1",
+            "is_correct": false
+        },
+        {
+            "text": "5",
+            "is_correct": false
+        }
+    ]
+}

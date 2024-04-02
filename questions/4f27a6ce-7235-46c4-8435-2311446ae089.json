@@ -1,0 +1,28 @@
+{
+    "idx": "4f27a6ce-7235-46c4-8435-2311446ae089",
+    "text": "Какое изображение соответствует виду слева детали изображенной на рисунке ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "1",
+            "is_correct": true
+        },
+        {
+            "text": "3",
+            "is_correct": false
+        },
+        {
+            "text": "5",
+            "is_correct": false
+        },
+        {
+            "text": "4",
+            "is_correct": false
+        },
+        {
+            "text": "2",
+            "is_correct": false
+        }
+    ]
+}

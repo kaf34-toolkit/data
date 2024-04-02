@@ -1,0 +1,28 @@
+{
+    "idx": "b052ad82-c20b-4e08-824d-f8ecfc3e7211",
+    "text": "Укажите обозначение левой резьбы с наибольшим шагом.",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "M42x4(P2)-LH",
+            "is_correct": false
+        },
+        {
+            "text": "S26x5",
+            "is_correct": false
+        },
+        {
+            "text": "М10х1.0",
+            "is_correct": false
+        },
+        {
+            "text": "М30х6(Р2)",
+            "is_correct": false
+        },
+        {
+            "text": "Tr16x4-LH",
+            "is_correct": true
+        }
+    ]
+}

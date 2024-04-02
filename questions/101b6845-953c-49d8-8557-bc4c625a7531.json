@@ -1,0 +1,48 @@
+{
+    "idx": "101b6845-953c-49d8-8557-bc4c625a7531",
+    "text": "Сколько отрезков различных прямых и кривых линий получится при пересечении детали плоскостью Q? ( Линия пересечения одной поверхности плоскостью, разделенная в сечении другими линиями на две или более части считается за два или более отрезка)",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "4",
+            "is_correct": false
+        },
+        {
+            "text": "8",
+            "is_correct": false
+        },
+        {
+            "text": "9",
+            "is_correct": false
+        },
+        {
+            "text": "7",
+            "is_correct": false
+        },
+        {
+            "text": "1",
+            "is_correct": false
+        },
+        {
+            "text": "3",
+            "is_correct": false
+        },
+        {
+            "text": "2",
+            "is_correct": false
+        },
+        {
+            "text": "10",
+            "is_correct": false
+        },
+        {
+            "text": "5",
+            "is_correct": false
+        },
+        {
+            "text": "6",
+            "is_correct": true
+        }
+    ]
+}

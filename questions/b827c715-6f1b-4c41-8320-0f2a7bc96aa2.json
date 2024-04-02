@@ -1,0 +1,28 @@
+{
+    "idx": "b827c715-6f1b-4c41-8320-0f2a7bc96aa2",
+    "text": "Сколько конических поверхностей имеет данная деталь?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "1",
+            "is_correct": false
+        },
+        {
+            "text": "4",
+            "is_correct": false
+        },
+        {
+            "text": "3",
+            "is_correct": false
+        },
+        {
+            "text": "5",
+            "is_correct": false
+        },
+        {
+            "text": "2",
+            "is_correct": true
+        }
+    ]
+}

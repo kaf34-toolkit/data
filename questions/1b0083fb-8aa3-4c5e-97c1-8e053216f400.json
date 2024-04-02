@@ -1,0 +1,28 @@
+{
+    "idx": "1b0083fb-8aa3-4c5e-97c1-8e053216f400",
+    "text": "Какое изображение является лишним для определения формы предмета ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "а",
+            "is_correct": false
+        },
+        {
+            "text": "г",
+            "is_correct": false
+        },
+        {
+            "text": "б",
+            "is_correct": false
+        },
+        {
+            "text": "Лишних изображений нет.",
+            "is_correct": true
+        },
+        {
+            "text": "в",
+            "is_correct": false
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "idx": "8075caa0-0afa-4f71-a343-0b2c4d3beeed",
+    "text": "Какой вид будет иметь линия пересечения конуса и плоскости Р на фронтальной плоскости проекций?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Парабола",
+            "is_correct": false
+        },
+        {
+            "text": "Окружность",
+            "is_correct": false
+        },
+        {
+            "text": "Гипербола",
+            "is_correct": true
+        },
+        {
+            "text": "Эллипс",
+            "is_correct": false
+        },
+        {
+            "text": "Прямая",
+            "is_correct": false
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "idx": "83d1f6f5-4fa0-4913-b6d8-d54a726fe468",
+    "text": "Какое из пяти изображений является сечением А-А ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "г",
+            "is_correct": false
+        },
+        {
+            "text": "в",
+            "is_correct": true
+        },
+        {
+            "text": "б",
+            "is_correct": false
+        },
+        {
+            "text": "а",
+            "is_correct": false
+        },
+        {
+            "text": "д",
+            "is_correct": false
+        }
+    ]
+}

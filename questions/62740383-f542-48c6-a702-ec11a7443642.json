@@ -1,0 +1,28 @@
+{
+    "idx": "62740383-f542-48c6-a702-ec11a7443642",
+    "text": "Какой размер не следует наносить на чертеже детали ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "l3",
+            "is_correct": true
+        },
+        {
+            "text": "l2",
+            "is_correct": false
+        },
+        {
+            "text": "l1",
+            "is_correct": false
+        },
+        {
+            "text": "Диаметр проточки",
+            "is_correct": false
+        },
+        {
+            "text": "M",
+            "is_correct": false
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "idx": "16cdd116-41d0-46db-a809-1a867b666e83",
+    "text": "Какой размер выполняется при сборке изделия ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "74",
+            "is_correct": false
+        },
+        {
+            "text": "170",
+            "is_correct": false
+        },
+        {
+            "text": "40",
+            "is_correct": false
+        },
+        {
+            "text": "26",
+            "is_correct": false
+        },
+        {
+            "text": "12 и O 6",
+            "is_correct": true
+        }
+    ]
+}

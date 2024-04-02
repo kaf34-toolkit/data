@@ -1,0 +1,48 @@
+{
+    "idx": "941c5812-9320-46e6-9bbb-d7ed5fc16e6f",
+    "text": "Какое количество отрезков кривых и прямых линий получится от пересечения детали плоскостью R? (Линия пересечения одной поверхности плоскостью разделенная в сечении другими линиями на две или более части считается за два или более отрезка)",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "8",
+            "is_correct": false
+        },
+        {
+            "text": "9",
+            "is_correct": false
+        },
+        {
+            "text": "7",
+            "is_correct": false
+        },
+        {
+            "text": "3",
+            "is_correct": false
+        },
+        {
+            "text": "6",
+            "is_correct": true
+        },
+        {
+            "text": "4",
+            "is_correct": false
+        },
+        {
+            "text": "10",
+            "is_correct": false
+        },
+        {
+            "text": "1",
+            "is_correct": false
+        },
+        {
+            "text": "2",
+            "is_correct": false
+        },
+        {
+            "text": "5",
+            "is_correct": false
+        }
+    ]
+}

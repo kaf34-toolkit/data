@@ -1,0 +1,28 @@
+{
+    "idx": "deb36dac-0fdb-477a-bc9a-12a45a8c6b50",
+    "text": "Какая линия дает возможность определить видимость горизонтальной проекции точки, лежащей на сфере?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Экватор",
+            "is_correct": true
+        },
+        {
+            "text": "Меридиан",
+            "is_correct": false
+        },
+        {
+            "text": "Главный меридиан",
+            "is_correct": false
+        },
+        {
+            "text": "Параллель",
+            "is_correct": false
+        },
+        {
+            "text": "Профильный меридиан",
+            "is_correct": false
+        }
+    ]
+}

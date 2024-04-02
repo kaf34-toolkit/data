@@ -1,0 +1,28 @@
+{
+    "idx": "8be23d2a-5130-4346-8c97-e219cb5ec35b",
+    "text": "Где и какое обозначение трубной цилиндрической резьбы следует нанести на чертеже ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Над линией \"в\" : G1",
+            "is_correct": false
+        },
+        {
+            "text": "Над линией \"д\" : G1",
+            "is_correct": false
+        },
+        {
+            "text": "Над линией \"б\" : G1/8",
+            "is_correct": false
+        },
+        {
+            "text": "Над линией \"г\" : G1",
+            "is_correct": true
+        },
+        {
+            "text": "Над линией \"а\" : Tr26",
+            "is_correct": false
+        }
+    ]
+}

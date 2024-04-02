@@ -1,0 +1,28 @@
+{
+    "idx": "f766f385-c6ad-4661-a0b4-76ed93f9f270",
+    "text": "Сколько кривых получится при пересечении детали плоскостью Q?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "5",
+            "is_correct": false
+        },
+        {
+            "text": "1",
+            "is_correct": false
+        },
+        {
+            "text": "2",
+            "is_correct": true
+        },
+        {
+            "text": "4",
+            "is_correct": false
+        },
+        {
+            "text": "3",
+            "is_correct": false
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "idx": "bb647c3d-c969-4503-a22d-6ac0ef855006",
+    "text": "Как называется эта деталь?",
+    "atype": 1,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Гайка",
+            "is_correct": true
+        }
+    ]
+}

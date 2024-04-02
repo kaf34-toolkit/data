@@ -1,0 +1,20 @@
+{
+    "idx": "2b9cd49c-b773-4367-9439-ae572e51f91f",
+    "text": "На каком сечении детали резьба изображена правильно ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "2",
+            "is_correct": false
+        },
+        {
+            "text": "3",
+            "is_correct": true
+        },
+        {
+            "text": "1",
+            "is_correct": false
+        }
+    ]
+}

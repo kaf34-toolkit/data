@@ -1,0 +1,28 @@
+{
+    "idx": "4dda404e-b0b4-4169-81b1-a1add25948e1",
+    "text": "Какая линия на профильной проекции изобразится окружностью?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "I",
+            "is_correct": false
+        },
+        {
+            "text": "AB",
+            "is_correct": false
+        },
+        {
+            "text": "AF",
+            "is_correct": true
+        },
+        {
+            "text": "EF",
+            "is_correct": false
+        },
+        {
+            "text": "CD",
+            "is_correct": false
+        }
+    ]
+}

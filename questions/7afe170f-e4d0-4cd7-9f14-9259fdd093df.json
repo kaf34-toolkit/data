@@ -1,0 +1,28 @@
+{
+    "idx": "7afe170f-e4d0-4cd7-9f14-9259fdd093df",
+    "text": "На каком из чертежей все линии треугольника отобразились не в натуральную величину ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "4",
+            "is_correct": true
+        },
+        {
+            "text": "2",
+            "is_correct": false
+        },
+        {
+            "text": "5",
+            "is_correct": false
+        },
+        {
+            "text": "1",
+            "is_correct": false
+        },
+        {
+            "text": "3",
+            "is_correct": false
+        }
+    ]
+}

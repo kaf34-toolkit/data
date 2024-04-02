@@ -1,0 +1,28 @@
+{
+    "idx": "ac0049f6-cf48-4ff8-ba1f-a03b0319542d",
+    "text": "Как называется вид А ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Вид снизу.",
+            "is_correct": false
+        },
+        {
+            "text": "Местный вид.",
+            "is_correct": false
+        },
+        {
+            "text": "Дополнительный вид.",
+            "is_correct": false
+        },
+        {
+            "text": "Вид сзади.",
+            "is_correct": true
+        },
+        {
+            "text": "Вид сверху.",
+            "is_correct": false
+        }
+    ]
+}

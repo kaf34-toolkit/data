@@ -1,0 +1,28 @@
+{
+    "idx": "bb9892af-5b6d-4e64-9092-ae1f02d50737",
+    "text": "Как называется вид обозначенный цифрой 1.",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Вид снизу.",
+            "is_correct": false
+        },
+        {
+            "text": "Дополнительный вид.",
+            "is_correct": true
+        },
+        {
+            "text": "Местный вид.",
+            "is_correct": false
+        },
+        {
+            "text": "Вид слева.",
+            "is_correct": false
+        },
+        {
+            "text": "Вид сзади.",
+            "is_correct": false
+        }
+    ]
+}

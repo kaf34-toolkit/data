@@ -1,0 +1,28 @@
+{
+    "idx": "97e8592d-81f9-49db-9dad-496addb4a650",
+    "text": "Какой из параметров или элементов резьбы обозначен буквой \"в\" ?",
+    "atype": 0,
+    "contains_img": true,
+    "answers": [
+        {
+            "text": "Проточка",
+            "is_correct": false
+        },
+        {
+            "text": "Наружный диаметр резьбы.",
+            "is_correct": true
+        },
+        {
+            "text": "Впадина профиля",
+            "is_correct": false
+        },
+        {
+            "text": "Ход резьбы",
+            "is_correct": false
+        },
+        {
+            "text": "Внутренний диаметр резьбы.",
+            "is_correct": false
+        }
+    ]
+}
